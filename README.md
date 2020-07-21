@@ -69,5 +69,5 @@
 <ul></ul>
 
 
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ankan97dutta)
+![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ankan97dutta&show_icons=true)
 
