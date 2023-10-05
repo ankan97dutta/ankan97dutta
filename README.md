@@ -1,73 +1,44 @@
-### Hi there!
+# Ankan Dutta
+## Software Engineer | Data Scientist
 
+👋 Hi there! 
+Welcome to my GitHub profile. I'm Ankan, a passionate Software Engineer with a strong background in Machine Learning and Artificial Intelligence. With 5 years of hands-on experience in this exciting field, I'm dedicated to creating innovative solutions that push the boundaries of what's possible. 
 
-<a href=https://www.facebook.com/ankan.duttaa> <img align="left" src="https://img.icons8.com/color/48/000000/facebook-new.png"></img></a>
+![Profile Banner](https://www.ankandutta.in/og.png)
 
+### 🚀 Expertise
 
-<a href=http://linkedin.com/in/ankan-dutta > <img align="left" src="https://img.icons8.com/color/48/000000/linkedin.png"></img></a>
+- **Machine Learning:** Proven experience in designing and implementing ML models for various use cases including Recommendation System and Time Series Analysis. Familiar with state-of-the-art algorithms and frameworks such as TensorFlow, PyTorch, and Scikit-Learn.
 
+- **Deep Learning:** Extensive knowledge of deep learning architectures like CNNs, RNNs, and Transformers. Have successfully applied them in projects like Time Series Forecasting.
 
-<a href=https://twitter.com/AnkanDutta5 > <img align="left" src="https://img.icons8.com/color/48/000000/twitter.png"></img></a>
+- **Natural Language Processing:** Proficient in working with NLP techniques such as tokenization, word embeddings, and sentiment analysis. Developed Conversational AI, Text Retrieval System.
 
+- **Data Science:** Skilled in data preprocessing, feature engineering, and exploratory data analysis. Experienced in using libraries like Pandas, NumPy, and Matplotlib.
 
-<a href=https://www.instagram.com/ankanduttaa > <img align="left" src="https://img.icons8.com/color/48/000000/instagram-new.png"></img></a>
+- **Software Engineering:** Strong software engineering fundamentals with expertise in Python, Java, SpringBoot, React, MongoDB, MySQL, Docker. Developed scalable and maintainable applications as showcased in projects like No Code Task Automation, Document Search Engine.
 
+### 🌱 Currently Exploring
 
-<a href=https://medium.com/@ankandutta > <img align="left" src="https://img.icons8.com/color/48/000000/medium-monogram.png"></img></a>
+- Information Security and Management
+- Graph Databases
 
+### 📫 Let's Connect
 
-#### Let's Connect<br>
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ankan-dutta) for any collaboration or professional discussions.
 
-#### <br>Name: Ankan Dutta
+### 🤝 Open to Collaborate
 
-#### Position: Data Scientist
+I'm open to collaborating on exciting projects related to Machine Learning, AI, and software engineering. If you're working on something interesting, let's team up and create something amazing!
 
-#### Email: ankan97dutta@gmail.com
+### 📚 Blog & Resources
 
-#### <h4>About Myself: I am a computer science engineer, passionate about machine learning and data science to create products that help people in making better insights.</h4>
+Check out my blog where I share insights, tutorials, and thoughts on various topics related to Machine Learning, AI, and software engineering: [Code to Excellence](https://blog.ankandutta.in/)
 
-# Education
+### 💡 Fun Fact
 
+I've found that sometimes the best way to solve a coding problem is to take a break, pick up my guitar, and return with a fresh perspective. The creative process is surprisingly similar.
 
- - <h4>College Name: Calcutta Institute of Engineering and Management</h4>
-    
-    <h4>Degree: Bachelor of Technology in Computer Science</h4>
-    
-    <h4>From:2015-08</h4>
-    
-    <h4>To: 2019-06</h4>
-    
-    <h4>About College: </h4>
+Thanks for visiting my profile. Stay curious and keep exploring the realms of technology!
 
-# Work Experience
-
-<ul>
-<li><h4> Company Name : EnergyTech Ventures </h4> 
-  <h4> Work Role : Jr. Data Scientist</h4> 
-  <h4> From : 2019-07 </h4> 
-  <h4> to :Present </h4> 
-  <h4> Details :I am responsible for the development of end to end data-driven solutions, creating prototypes, designing pipelines and deployment in production, by leveraging machine learning and data science techniques. </h4> 
-</li></ul>
-
-# Projects
-
-<ul>
-<li> <h4>Project Name : Peri Apical Index Score</h4> 
-<h4> Project Description : Detection and localisation of dental x-ray images to calculate the PAI score. Used YOLOv3 for training and inference.</h4> 
-<h4>  From : 2019-11</h4> 
- <h4>  to :2020-01</h4> 
-<h4>  Github Link :</h4> 
-<h4>  Website Link :</h4> 
- </li></ul>
-
-# Skills
-
-<h4>Machine Learning,Data Science,Python,C Programming,RASA,Elasticsearch,Time series,ReactJs,NodeJs,Docker,Kubernetes</h4>
-
-# Achievements
-
-<ul></ul>
-
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=ankan97dutta&show_icons=true&count_private=true)
-
+![Visitor Count](https://komarev.com/ghpvc/?username=ankan97dutta)
