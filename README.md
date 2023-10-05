@@ -2,9 +2,10 @@
 ## Software Engineer | Data Scientist
 
 👋 Hi there! 
+
 Welcome to my GitHub profile. I'm Ankan, a passionate Software Engineer with a strong background in Machine Learning and Artificial Intelligence. With 5 years of hands-on experience in this exciting field, I'm dedicated to creating innovative solutions that push the boundaries of what's possible. 
 
-![Profile Banner](https://www.ankandutta.in/og.png)
+![Ankan Dutta](https://www.ankandutta.in/og.png)
 
 ### 🚀 Expertise
 
@@ -29,7 +30,9 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/ankan-dut
 
 ### 🤝 Open to Collaborate
 
-I'm open to collaborating on exciting projects related to Machine Learning, AI, and software engineering. If you're working on something interesting, let's team up and create something amazing!
+Visit my website here 👉 [ankandutta.in](https://ankandutta.in/)
+
+I'm open to collaborating on exciting projects related to Machine Learning, AI, and software engineering. If you're working on something interesting, let's team up and create something amazing! 
 
 ### 📚 Blog & Resources
 
