@@ -40,7 +40,7 @@ Check out my blog where I share insights, tutorials, and thoughts on various top
 
 ### 💡 Fun Fact
 
-I've found that sometimes the best way to solve a coding problem is to take a break, pick up my guitar, and return with a fresh perspective. The creative process is surprisingly similar.
+I've found that sometimes the best way to solve a coding problem is to take a break, take a walk, and return with a fresh perspective. The creative process is surprisingly similar.
 
 Thanks for visiting my profile. Stay curious and keep exploring the realms of technology!
 
