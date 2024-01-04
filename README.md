@@ -9,6 +9,8 @@ Welcome to my GitHub profile. I'm Ankan, a passionate Software Engineer with a s
 
 ### 🚀 Expertise
 
+- **Software Engineering:** Strong software engineering fundamentals with expertise in Python, Java, SpringBoot, React, MongoDB, MySQL, Docker. Developed scalable and maintainable applications as showcased in projects like No Code Task Automation, Document Search Engine.
+
 - **Machine Learning:** Proven experience in designing and implementing ML models for various use cases including Recommendation System and Time Series Analysis. Familiar with state-of-the-art algorithms and frameworks such as TensorFlow, PyTorch, and Scikit-Learn.
 
 - **Deep Learning:** Extensive knowledge of deep learning architectures like CNNs, RNNs, and Transformers. Have successfully applied them in projects like Time Series Forecasting.
@@ -17,12 +19,11 @@ Welcome to my GitHub profile. I'm Ankan, a passionate Software Engineer with a s
 
 - **Data Science:** Skilled in data preprocessing, feature engineering, and exploratory data analysis. Experienced in using libraries like Pandas, NumPy, and Matplotlib.
 
-- **Software Engineering:** Strong software engineering fundamentals with expertise in Python, Java, SpringBoot, React, MongoDB, MySQL, Docker. Developed scalable and maintainable applications as showcased in projects like No Code Task Automation, Document Search Engine.
-
 ### 🌱 Currently Exploring
 
 - Information Security and Management
 - Graph Databases
+- Golang
 
 ### 📫 Let's Connect
 
