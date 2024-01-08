@@ -1,6 +1,6 @@
+![Ankan Dutta](https://www.ankandutta.in/og.png)
 # Ankan Dutta
 ## Software Engineer | Data Scientist
-![Ankan Dutta](https://www.ankandutta.in/og.png)
 👋 Hi there! 
 
 Welcome to my GitHub profile. I'm Ankan, a passionate Software Engineer with a strong background in Machine Learning and Artificial Intelligence. With 5 years of hands-on experience in this exciting field, I'm dedicated to creating innovative solutions that push the boundaries of what's possible. 
