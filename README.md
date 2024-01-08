@@ -46,3 +46,5 @@ I've found that sometimes the best way to solve a coding problem is to take a br
 Thanks for visiting my profile. Stay curious and keep exploring the realms of technology!
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=ankan97dutta)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=ankan97dutta&hide_border=true)
