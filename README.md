@@ -48,3 +48,5 @@ Thanks for visiting my profile. Stay curious and keep exploring the realms of te
 ![Visitor Count](https://komarev.com/ghpvc/?username=ankan97dutta)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankan97dutta&hide_border=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankan97dutta&theme=github)
+
